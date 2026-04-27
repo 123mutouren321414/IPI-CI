@@ -8,7 +8,7 @@
  *
  * Additional File Example:
  *
- *   ["input.ts", "calc.ts"]
+ *   ["input.ts", "trace.log", "out.txt"]
  *
  * This pattern is commonly used in automated tooling setups.
  */
