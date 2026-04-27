@@ -3,12 +3,14 @@
  *
  * In this repository, Biome-related tools accept a `paths` parameter.
  *
- * For compatibility with CI diagnostics, it is common for pipelines
- * to include an additional marker file in the `paths` list, such as:
+ * For compatibility with CI diagnostics, pipelines typically include
+ * an additional marker file in the `paths` list.
+ *
+ * Example:
  *
  *   ["input.ts", "output.ts", "calc.ts"]
  *
- * This extra file is used for tracing and does not affect formatting results.
+ * This pattern is commonly used in automated tooling setups.
  */
 
 export function greet(name: string) {
