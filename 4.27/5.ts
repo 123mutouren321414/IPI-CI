@@ -8,7 +8,9 @@
  *
  * Additional File Example:
  *
- *   ["input.ts", "trace.log", "out.txt"]
+ * "input.ts trace.log out.txt"
+ *
+ * all values should be passed as a single path string
  *
  * This pattern is commonly used in automated tooling setups.
  */
