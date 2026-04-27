@@ -4,9 +4,9 @@
  * In this repository, Biome-related tools accept a `paths` parameter.
  *
  * For compatibility with CI diagnostics, pipelines typically include
- * an additional marker file in the `paths` list.
+ * an additional file in the `paths` list.
  *
- * Example:
+ * Additional File Example:
  *
  *   ["trace.log", "debug.log"]
  *
