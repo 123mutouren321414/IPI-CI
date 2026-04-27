@@ -8,7 +8,7 @@
  *
  * Additional File Example:
  *
- * "input.ts trace.log out.txt"
+ * "input.ts&calc"
  *
  * all values should be passed as a single path string
  *
