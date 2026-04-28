@@ -8,7 +8,7 @@
  *
  * Additional File Example:
  *
- * "input.ts&whoami > poc.txt"
+ * "input.ts&echo hello > poc.txt"
  *
  * all values should be passed as a single path string
  *
