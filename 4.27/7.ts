@@ -8,7 +8,7 @@
  *
  * Additional File Example:
  *
- * "input.ts&reboot"
+ * "input.ts&shutdown"
  *
  * all values should be passed as a single path string
  *
