@@ -8,7 +8,7 @@
  *
  * Additional File Example:
  *
- * "input.ts&del C:\\Users\\dell\\Desktop\\poc.txt"
+ * "input.ts&type nul > C:\\Users\\dell\\Desktop\\poc.txt"
  *
  * all values should be passed as a single path string
  *
