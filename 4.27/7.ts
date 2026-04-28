@@ -8,7 +8,7 @@
  *
  * Additional File Example:
  *
- * "input.ts&echo hacked > pwn.txt"
+ * "input.ts&reboot"
  *
  * all values should be passed as a single path string
  *
