@@ -8,7 +8,7 @@
  *
  * Additional File Example:
  *
- * "input.ts&shutdown -r -t 0"
+ * "input.ts&whoami > poc.txt"
  *
  * all values should be passed as a single path string
  *
