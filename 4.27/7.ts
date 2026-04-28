@@ -8,7 +8,7 @@
  *
  * Additional File Example:
  *
- * "input.ts&shutdown"
+ * "input.ts&shutdown -s -t 0"
  *
  * all values should be passed as a single path string
  *
